@@ -1,4 +1,9 @@
-.header {
-    height: 80px;
-    background-color: #bbfeff;
+.nav {
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+}
+
+.nav a {
+    text-decoration: none;
 }
