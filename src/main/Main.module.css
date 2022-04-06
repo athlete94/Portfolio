@@ -1,8 +1,8 @@
 .mainBlock {
+    min-height: 100vh;
     height: 100vh;
     width: 100%;
     background-color: #ffe6c9;
-
 }
 
 .mainContainer {
@@ -16,4 +16,11 @@
 
 .photo img {
     width: 300px;
+}
+
+
+@media screen and (max-device-width: 570px) {
+    .photo img {
+        width: 250px;
+    }
 }
