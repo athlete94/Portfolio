@@ -1,7 +1,8 @@
 .footer {
     height: 200px;
     width: 100%;
-    background-color: #b69bd4;
+    color: white;
+    background-color: #000000;
 }
 
 .footerContainer {

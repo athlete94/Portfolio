@@ -14,7 +14,7 @@ export const Footer = () => {
                     <Item/>
                     <Item/>
                 </div>
-               <span>2022 Все права защищены.</span>
+               <span>Copyright © 2022.       All Rights Reserved.</span>
             </div>
         </div>
     );
